@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Onclick-app/static/css/main.6ebd8923.css",
+    "main.js": "/React-Onclick-app/static/js/main.7c11526c.js",
+    "index.html": "/React-Onclick-app/index.html",
+    "main.6ebd8923.css.map": "/React-Onclick-app/static/css/main.6ebd8923.css.map",
+    "main.7c11526c.js.map": "/React-Onclick-app/static/js/main.7c11526c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ebd8923.css",
+    "static/js/main.7c11526c.js"
+  ]
+}
